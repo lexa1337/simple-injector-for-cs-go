@@ -1,0 +1,1 @@
+# simple-injector-for-cs-go
